@@ -46,3 +46,25 @@ eg Degital Clock i have created if anyone want digital clock then you can take f
 what is package.json file
 whatever the data is using in project add data in one file 
 data of data. whatever project related dependencies will be there.
+
+Version
+18.5.2
+
+Major.Minor.patch
+
+patch=bug fixed
+Minor=New functionality added
+Major = changes in old code or adding the new code.
+
+^18.0.1
+it means it will take change of Minor and patches.
+
+~19.0.5
+it means it will take change of patches.
+
+package-lock.json file
+it will fixed the version and its advantage is when node_modules will install it will see this file then it will install that version run smoothly to anotther system.
+
+node_modules file
+database of install file
+It is used to store the dependencies (external libraries or packages) that your Node. js project relies on.
